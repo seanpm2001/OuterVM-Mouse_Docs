@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🪐️🖱️📖️ The official documentation source repository for OuterVM mouse, an emergency extra mouse that activates once your main mouse is trapped inside a window or virtual machine.
